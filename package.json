@@ -1,0 +1,20 @@
+{
+    "name": "@markcball/RandomNumber",
+    "version": "1.0.0",
+    "description": "returns special random numbers",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MarkCBall/RandomNumber"
+      },
+    "main": "index.js",
+    "author": "Mark Camball",
+    "keywords": [
+        "random",
+        "dice",
+        "number"
+    ],
+    "scripts": {
+        "test": "fix this and echo something?"
+      }
+}
